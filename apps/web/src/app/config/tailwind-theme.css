@@ -1,0 +1,20 @@
+@theme {
+  /* Brand */
+  --color-primary: #6d28d9;
+  --color-primary-hover: #5b21b6;
+  --color-primary-active: #4c1d95;
+  --color-primary-foreground: #ffffff;
+
+  /* Surfaces and text */
+  --color-background: #f8fafc;
+  --color-surface: #ffffff;
+  --color-text: #1f2937;
+  --color-text-muted: #64748b;
+  --color-border: #e2e8f0;
+
+  /* Feedback */
+  --color-success: #15803d;
+  --color-warning: #b45309;
+  --color-danger: #dc2626;
+  --color-info: #2563eb;
+}

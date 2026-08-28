@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@import './app/config/tailwind-theme.css';
+
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  color: #1f2937;
+  background: #f8fafc;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
